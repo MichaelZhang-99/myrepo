@@ -1,3 +1,3 @@
-# This is a line from RStudio
+# FUCK ECON 380
 testing my setup
  
